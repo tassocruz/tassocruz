@@ -1,17 +1,10 @@
-### Oiii, eu sou Tasso Cruz, programador e apaixonado por tecnologia!
+### Tasso Cruz!
 
-<div align="center">
-  <a href="https://github.com/tassocruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tassocruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassocruz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tasso-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Tasso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tasso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tasso-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Tasso-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/tasso-cezar-3a921525a/) 
+[![Gmail Badge](https://img.shields.io/badge/-tassocruz@icloud.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tassocruz@icloud.com)](mailto:tassocruz@icloud.com)
+I am a person who is passionate about technology and who believes in it to make the world a better place.
+
+Therefore, I am constantly stimulating my programming skills so that I can contribute to the creation of software and applications that help our society as a whole. 🚀😁🔥
   
   ##
  
